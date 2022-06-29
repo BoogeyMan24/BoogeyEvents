@@ -1,0 +1,10 @@
+name: CoolBoogey
+version: '1.0-SNAPSHOT'
+main: coolboogey.coolboogey.CoolBoogey
+api-version: 1.19
+authors: [ BoogeyMan24 ]
+description: Cool plugin made by boogey
+commands:
+  boogey:
+    usage: epic fail #/boogey {newEvent} {kill/break/place} {specific item/block/mob} {length day/month eg. 1m}
+  startEvent:
